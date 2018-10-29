@@ -6,7 +6,7 @@ repo für Aufgaben/usw. zum Coursera-Kurs [HTML, CSS, and Javascript for Web Dev
 
 for starting the webapp on local environment go to the 'site' folder and use
 
-`browser-sync start --server --directory --files "*"`
+`browser-sync start --server --directory --files "**/*"`
 
 command.
 
